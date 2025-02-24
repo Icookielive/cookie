@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: rgb(255, 236, 109);
+    color:fuchsia;
+    font-size: xx-large;
+}
+
+img {
+    width: 600px;
+    border-radius:  20px;
+}
+button {
+    background-color:cyan ;
+
+}
+font-size {
+    font-size: larger;
+
+}
